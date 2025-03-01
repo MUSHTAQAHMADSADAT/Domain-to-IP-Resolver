@@ -6,6 +6,7 @@ To use the tool please follow these steps:
 	. sudo apt update
 	. sudo apt install git
 	. sudo apt install python3
+	. git clone https://github.com/MUSHTAQAHMADSADAT/Domain-to-IP-Resolver.git
 	. chmod +x Domain-to-Multiple-Ip.py
 	. python3 Domain-to-Multiple-Ip.py
 
