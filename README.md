@@ -1,2 +1,2 @@
 # Domain-to-IP-Resolver
-The repository includes two Ip resolving tools which relover a domin to single or multiple Ips.
+The repository includes two Ip resolving tools for resolving domains to Ip address(es).
